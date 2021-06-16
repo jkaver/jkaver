@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jkaver
+- 👋 Hi, I’m Kaveri
 - 👀 I’m interested in everyhting that can generate data
 - 🌱 I’m currently learning data science
 
